@@ -1,5 +1,5 @@
 # MS SQL Server Trail
-### This is a collection of all learnings that I have acquired & builds up on my existing knowledge of SQL
+### This is a collection of learnings I acquired of T-SQL, Microsoft SSMS & builds up on my existing knowledge of SQL concepts.
 * The intent was to get familiar with the Microsoft's SQL Server Management environment while revising SQL concepts.
 * In further update to this repo, I'll be adding learnings on SSMS & SSRS as well.
 * The course I followed is [SQL for Data Analysis - with SQL Server](https://www.udemy.com/course/sql-basics-crash-course-with-sql-server/) by Travis Cuzick.
